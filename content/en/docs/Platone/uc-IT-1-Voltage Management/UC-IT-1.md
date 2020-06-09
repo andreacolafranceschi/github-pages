@@ -5,7 +5,7 @@
 *Use case identification*
 | ID  | Area /Domain(s)/Zone(s)| Name of the Use Case |
 | --- | ---                    | ---                  |
-| UC-IT-1| Area: Energy system </br> *Leave it blanc if not sure* | Congestion Management in transmission and distribution system using also the resources connected to the distribution system |
+| UC-IT-1| Area: Energy system </br> *Leave it blank if not sure* | Congestion Management in transmission and distribution system using also the resources connected to the distribution system |
 
 ***Notes:***
 * **ID** - uniqe identification label: DE-1/GR-3/IT-2
